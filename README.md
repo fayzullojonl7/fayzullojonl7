@@ -5,12 +5,36 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-## 👋 About Me
+
+Hi, I'm **Fayzullo** — an aspiring frontend developer with a passion for clean UI and modern web tech. Currently learning and building every day.
+
+## 🛠 Skills
+
+- JavaScript (React)
+- HTML, CSS, Tailwind CSS
+- C++ basics
+- CRUD apps, modals, forms
+
+## 🚀 Projects
+
+- **User Management App** – React + Ant Design CRUD UI  
+  [Repo coming soon]
+
+- **Fayz.Posters** – Auto-themed poster shop  
+  [Instagram](https://instagram.com/fayz.posters)
+
+## 🌐 Links
+
+- [Instagram](https://instagram.com/fayz.posters)
+- Email: `yourname@email.com`
+
+## 🎯 Goals
+
+- Get hired before September 2025
+- Build a strong online business
+- Grow as a developer and creator
+
+---
+
+Let’s build something great. 🚀
