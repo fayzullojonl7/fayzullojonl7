@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg" style={{backgroundColor:"red"}} alt="Pinterest" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios/452/capcut.png" alt="CapCut" width="40" height="40"/>
+<!--   <img src="https://img.icons8.com/ios/452/capcut.png" alt="CapCut" width="40" height="40"/> -->
 
 </p>
 
