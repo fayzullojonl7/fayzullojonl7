@@ -21,7 +21,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg" alt="Pinterest" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg" style={{backgroundColor:"red"}} alt="Pinterest" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/CapCut_Logo.svg" alt="CapCut" width="40" height="40"/>
 </p>
